@@ -1,0 +1,8 @@
+{
+  "name": "exitoapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "bba57789"
+}
